@@ -65,18 +65,18 @@ personal-portfolio/
  
   ## 🏢 Internship Details
 
--Internship Company: Vertex Development Company
--Task: Task 1 – Personal Portfolio Website
--Level: Beginner
+- Internship Company: Vertex Development Company
+- Task: Task 1 – Personal Portfolio Website
+- Level: Beginner
  
  ---
 
 ## 📈 Learnings
 
--Improved understanding of HTML structure
--Better CSS styling and layout practices
--Basic JavaScript usage
--Importance of clean and readable code
+- Improved understanding of HTML structure
+- Better CSS styling and layout practices
+- Basic JavaScript usage
+- Importance of clean and readable code
 
 
  ---
