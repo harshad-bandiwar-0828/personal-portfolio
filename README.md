@@ -22,13 +22,9 @@ Contact / Social links
 Beginner-friendly structure
 
 
-
 🛠️ Tech Stack
-
 HTML5 – Structure of the website
-
 CSS3 – Styling and layout
-
 JavaScript – Basic interactivity
 
 
