@@ -1,105 +1,95 @@
-Personal Portfolio Website
-📌 Project Overview
 
+# Personal Portfolio Website
+
+# 📌 Project Overview
 This is a beginner-level personal portfolio website developed as Task 1 of my internship at Vertex Development Company.
 The project is built using HTML, CSS, and basic JavaScript to showcase my skills, projects, and profile in a simple and structured way.
 
+---
+
+## 🚀 Live Demo
+🔗 GitHub Pages:  
+ https://harshad-bandiwar-0828.github.io/weather-app/
 
 
-🚀 Features
+---
 
-Clean and simple UI
+## 📸 Preview
+📽️ A complete working preview of the Portfolio is available below:  
 
-Responsive design
-
-About Me section
-
-Skills section
-
-Projects section
-
-Contact / Social links
-
-Beginner-friendly structure
+- Demo Video: ``  
+- Screenshots: `assets/screenshots/`
 
 
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+- **HTML5** – Structure of the website
+- **CSS3** – Styling and layout
+- **JavaScript** – Basic interactivity
+  
 
-HTML5 – Structure of the website
+---
 
-CSS3 – Styling and layout
+## ✨ Features
+- Clean and simple UI
+- Responsive design
+- About Me section  
+- Skills section
+- Projects section
+- Contact / Social links
+- Beginner-friendly structure
 
-JavaScript – Basic interactivity
+---
 
-
-
-📂 Project Structure
-
+## 📂 Project Structure
 personal-portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-    └── images/
+│── portfolio.html
+│── portfolio.css
+│── assets/
+│ ├── screenshots/
+│── README.md
 
 
+---
 
-🎯 Purpose of the Project
+## 🎯 Purpose of the Project
 
-To strengthen fundamentals of web development
-
-To learn how to structure a personal portfolio
-
-To gain hands-on experience during internship
-
-To showcase skills and projects professionally
+1. To strengthen fundamentals of web development
+2. To learn how to structure a personal portfolio
+3. To gain hands-on experience during internship
+4. To showcase skills and projects professionally
 
 
+ ---
+ 
+  ## 🏢 Internship Details
 
-🏢Internship Details
+-Internship Company: Vertex Development Company
+-Task: Task 1 – Personal Portfolio Website
+-Level: Beginner
+ 
+ ---
 
-Internship Company: Vertex Development Company
+## 📈 Learnings
 
-Task: Task 1 – Personal Portfolio Website
-
-Level: Beginner
-
-
-
-📸 Preview
-Please Check Assets folder to preview the work 
-
-
-
-🌐 Live Demo
-
+-Improved understanding of HTML structure
+-Better CSS styling and layout practices
+-Basic JavaScript usage
+-Importance of clean and readable code
 
 
-📈 Learnings
+ ---
 
-Improved understanding of HTML structure
-
-Better CSS styling and layout practices
-
-Basic JavaScript usage
-
-Importance of clean and readable code
-
-
-
-🤝 Feedback
+## 🤝 Feedback
 Suggestions and feedback are always welcome to help me improve and learn more.
 
+## 📬 Contact
 
-
-📬 Contact
-
+Harshad Purushottam Bandiwar
+GitHub:- GitHub:https://github.com/harshad-bandiwar-0828
 LinkedIn: https://www.linkedin.com/in/your-profile
 
-GitHub: https://github.com/harshad-bandiwar-0828/
 
-
-⭐ Acknowledgement
-Thanks to Vertex Development Company for providing this internship opportunity and learning experience.
+## ⭐ Acknowledgement
+Thanks to Vertex Development Company for providing this internship opportunity and learning experience
