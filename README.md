@@ -87,8 +87,8 @@ Suggestions and feedback are always welcome to help me improve and learn more.
 ## 📬 Contact
 
 Harshad Purushottam Bandiwar
-GitHub:- GitHub:https://github.com/harshad-bandiwar-0828
-LinkedIn: https://www.linkedin.com/in/your-profile
+- GitHub:- GitHub:https://github.com/harshad-bandiwar-0828
+- LinkedIn: https://www.linkedin.com/in/your-profile
 
 
 ## ⭐ Acknowledgement
