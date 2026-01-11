@@ -9,7 +9,7 @@ The project is built using HTML, CSS, and basic JavaScript to showcase my skills
 
 ## 🚀 Live Demo
 🔗 GitHub Pages:  
- https://harshad-bandiwar-0828.github.io/weather-app/
+ (https://harshad-bandiwar-0828.github.io/personal-portfolio/)
 
 
 ---
@@ -17,7 +17,7 @@ The project is built using HTML, CSS, and basic JavaScript to showcase my skills
 ## 📸 Preview
 📽️ A complete working preview of the Portfolio is available below:  
 
-- Demo Video: ``  
+- Demo Video: `https://www.linkedin.com/feed/update/urn:li:activity:7415764988759437312/`  
 - Screenshots: `assets/screenshots/`
 
 
@@ -88,7 +88,7 @@ Suggestions and feedback are always welcome to help me improve and learn more.
 
 Harshad Purushottam Bandiwar
 - GitHub:- GitHub:https://github.com/harshad-bandiwar-0828
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/harshad-bandiwar-902367345/
 
 
 ## ⭐ Acknowledgement
